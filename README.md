@@ -1,7 +1,5 @@
 # substring
-# Create a README.md file with the provided prompt content
 
-readme_content = """# Longest Common Substring (C++ Dynamic Programming Implementation)
 
 ## Description
 This project solves the **Longest Common Substring (LCSu)** problem using a dynamic programming approach in C++.  
